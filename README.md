@@ -1,5 +1,5 @@
 # webscraping
-Get datas from website an insert them in a database
+Get datas from a website an insert them in a database
 
 Start to install Selenium 
 * sudo pip3 install selenium
